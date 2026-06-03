@@ -1,5 +1,5 @@
 # noteo
-noteo turns your Android tablet into a live floating music staff. Connect your piano over Bluetooth or a USB cable, and every note you play appears in real time on a grand staff that sits on top of whatever else is on screen — a video tutorial, a sheet-music PDF, your favourite practice app — without taking it over.
+noteo turns your Android tablet/phone into a live floating music staff. Connect your piano over Bluetooth or a USB cable, and every note you play appears in real time on a grand staff that sits on top of whatever else is on screen — a video tutorial, a sheet-music PDF, your favourite practice app — without taking it over.
 
 
 KEY FEATURES
