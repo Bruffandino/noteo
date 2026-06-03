@@ -7,12 +7,19 @@ KEY FEATURES
 • Live grand-staff display with proper music notation 
 
 • Smart chord recognition 
-• Dynamic markings —
-• Dynamic hand split —
-• Customisable display — 
-• Keep-screen-on option — 
+
+• Dynamic markings 
+
+• Dynamic hand split
+
+• Customisable display 
+
+• Keep-screen-on option 
+
 • wired USB MIDI or Bluetooth MIDI
-• NEW (experimental): no MIDI piano? Turn on "Audio input" in Settings to let Noteo detect notes from the microphone using Spotify's basic-pitch model. Audio is processed on your device only — nothing is recorded, nothing is sent anywhere. Slight delay vs. instant MIDI response; velocity isn't available in this mode.
+
+• NEW (experimental): no MIDI piano? Turn on "Audio input" in Settings to let Noteo detect notes from the microphone
+
 • Floating overlay — draggable, resizable, remembers its size and position between sessions, and always stays on-screen.
 
 
