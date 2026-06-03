@@ -24,6 +24,6 @@ KEY FEATURES
 
 • Floating overlay — draggable, resizable, remembers its size and position between sessions, and always stays on-screen.
 
-
+Support: scorix.support@gmail.com
 
 
